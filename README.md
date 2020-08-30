@@ -2,7 +2,7 @@
 
 Team:
 Dev Agarwal,
-Elizabeth Tremblay,
+Liz Tremblay,
 Kunal Kewalramani,
 Piyush Sahu,
 Zaina Qasim.
@@ -17,3 +17,5 @@ The parsers are built using python and the web app is built using flask and sqli
 
 Improvements to be made in the future:
 To fully refine this tool, a friend-end framework like gatsby or nextjs can be used to make it look pretty and enhance the UI. the database can be linked to the server so that there will be no need to necesserily add resume data manually, instead the pipeline would automatically parse the resume and upload the metadata to the database. 
+
+Protoype User Testing Link: https://xd.adobe.com/view/7b0e203a-f58d-44e8-9a60-6417953369fb-2e5d/?fullscreen&hints=off
