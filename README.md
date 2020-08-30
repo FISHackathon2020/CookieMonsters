@@ -1,11 +1,11 @@
 # CookieMonsters
 
 Team:
-Dev Agarwal
-Kunal Kewalramani
-Elizabeth Tremblay
-Piyush Sahu
-Zaina Qasim
+Dev Agarwal,
+Elizabeth Tremblay,
+Kunal Kewalramani,
+Piyush Sahu,
+Zaina Qasim.
 
 Problem Statement:
 The nature of student engagement has changed. As a company that values the talent and ideas that college students bring, we want to ensure that we're engaging with students on their terms. The goal of this challenge is to create a tool that will allow us to collect valuable information about a student's experiences and interests in order to partner through internships, co-ops, and other opportunities.
