@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+table {
+    border: 1;
+    border-block-color: black;
+}
