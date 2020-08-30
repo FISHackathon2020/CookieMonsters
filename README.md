@@ -2,7 +2,7 @@
 
 Team:
 Dev Agarwal,
-Elizabeth Tremblay
+Elizabeth Tremblay,
 Kunal Kewalramani,
 Piyush Sahu,
 Zaina Qasim.
