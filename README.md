@@ -19,3 +19,5 @@ Improvements to be made in the future:
 To fully refine this tool, a friend-end framework like gatsby or nextjs can be used to make it look pretty and enhance the UI. the database can be linked to the server so that there will be no need to necesserily add resume data manually, instead the pipeline would automatically parse the resume and upload the metadata to the database. 
 
 Protoype User Testing Link: https://xd.adobe.com/view/7b0e203a-f58d-44e8-9a60-6417953369fb-2e5d/?fullscreen&hints=off
+Slide deck: https://mailuc-my.sharepoint.com/:p:/g/personal/kewalrkr_mail_uc_edu/EdB2E1n8XZBDnQTY9EOMzTkB_Nst-6ON-GLu_tfd5GYX0Q?e=I0Ehha
+Flask: https://flasktut-0820.herokuapp.com/
